@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Dhaia)
+[![Readme Card](https://github.com/Dhaia)](https://github.com/Dhaia)
